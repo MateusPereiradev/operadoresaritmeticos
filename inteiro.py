@@ -1,6 +1,7 @@
 from math import trunc
-real= float(input("Digite aqui um número real:"))
-print(f"Referente ao número real {real} o valor inteiro dele é {trunc(real)}")
+num= float(input('Digite aqui um número real:'))
+print(f'O númeoro inteiro do número decimal {num} é {trunc(num)}!')
+
 
 """
 Crie um programa que leia um número Real qualquer pelo teclado
